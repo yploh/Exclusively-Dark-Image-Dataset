@@ -34,7 +34,8 @@ The codes are implemented in MATLAB using prior versions of the [MatConvNet](htt
 2. Extract matconvnet-1.0-beta20.tar.gz
    - run vl_compilenn
    - run vl_setupnn
-   * for problems installing the toolbox, please refer to [MatConvNet](http://www.vlfeat.org/matconvnet/)
+   
+   (for problems installing the toolbox, please refer to [MatConvNet](http://www.vlfeat.org/matconvnet/))
 
 3. Run demo.m
 

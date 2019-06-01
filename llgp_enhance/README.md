@@ -44,5 +44,5 @@ The codes are implemented in MATLAB using prior versions of the [MatConvNet](htt
 Suggestions and opinions of this work (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
 `lexloh2009 at hotmail.com`or `cs.chan at um.edu.my`.
 
-## License and Copyright
-The project is open source under BSD-3 license (see the ``` LICENSE ``` file). Codes can be used freely only for academic purpose.
+## License and
+The project is open sourced under BSD-3 license (see the ``` LICENSE ``` file). Codes can be used freely only for academic purposes.

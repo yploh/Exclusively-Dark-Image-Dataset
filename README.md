@@ -15,13 +15,26 @@ Released on May 29, 2018
 <img src="llgp_enhance/2015_00003.gif" height="150" > <img src="llgp_enhance/2015_02446.gif" height="150" > <img src="llgp_enhance/2015_06400.gif" height="150" >
 
 ## Citation
-If you find this dataset useful for your research, please cite
+If you find this dataset and/or work useful for your research, please cite
 ```
-@article{Exdark,
-  title={Getting to Know Low-light Images with The Exclusively Dark Dataset},
+@article{loh2019getting,
+  title={Getting to know low-light images with the Exclusively Dark dataset},
   author={Loh, Yuen Peng and Chan, Chee Seng},
-  journal={arXiv preprint arXiv:1805.11227},
-  year={2018}
+  journal={Computer Vision and Image Understanding},
+  volume={178},
+  pages={30--42},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{loh2019low,
+  title={Low-light image enhancement using Gaussian Process for features retrieval},
+  author={Loh, Yuen Peng and Liang, Xuefeng and Chan, Chee Seng},
+  journal={Signal Processing: Image Communication},
+  volume={74},
+  pages={175--190},
+  year={2019},
+  publisher={Elsevier}
 }
 ```
 

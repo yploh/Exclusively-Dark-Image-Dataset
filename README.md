@@ -1,13 +1,16 @@
 # Exclusively Dark (ExDark) Image Dataset
 
+Updated on June 1, 2019 (added codes for low-light image enhancement using Gaussian Process)
+
 Released on May 29, 2018
 
 ## Description
 
-In order to facilitate a new object detection and image enhancement research, we introduce the Exclusively Dark (ExDark) dataset [(CVIU - under review)](https://arxiv.org/abs/1805.11227). The Exclusively Dark (ExDARK) dataset is a collection of 7,363 low-light images from very low-light environments to twilight (i.e 10 different conditions) with 12 object classes (as to PASCAL VOC) annotated on both image class level and local object bounding boxes. 
+* In order to facilitate a new object detection and image enhancement research, we introduce the Exclusively Dark (ExDark) dataset [(CVIU 2019)](http://cs-chan.com/doc/cviu.pdf). The Exclusively Dark (ExDARK) dataset is a collection of 7,363 low-light images from very low-light environments to twilight (i.e 10 different conditions) with 12 object classes (as to PASCAL VOC) annotated on both image class level and local object bounding boxes. 
 
 ![demo](Exdark.gif)
 
+* Now available, codes for low-light image enhancement using Gaussian Process for features retrieval. [(SPIC 2019)](http://cs-chan.com/doc/SPIC2019.pdf)
 
 ## Citation
 If you find this dataset useful for your research, please cite

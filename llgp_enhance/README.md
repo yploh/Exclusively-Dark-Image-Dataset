@@ -23,7 +23,7 @@ If you find this code useful for your research, please cite:
 }
 ```
 
-## Dependency
+## Dependencies
 
 The codes are implemented in MATLAB using prior versions of the [MatConvNet](http://www.vlfeat.org/matconvnet/) and the [Gaussian Process for Machine Learning](http://www.gaussianprocess.org/gpml/code/matlab/doc/index.html) toolboxes.
 

@@ -42,5 +42,5 @@ If you find this dataset and/or work useful for your research, please cite
 Suggestions and opinions of this dataset (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
 `lexloh2009 at hotmail.com`or `cs.chan at um.edu.my`.
 
-## License and Copyright
+## License
 The project is open sourced under BSD-3 license (see the ``` LICENSE ``` file). Codes can be used freely only for academic purpose.

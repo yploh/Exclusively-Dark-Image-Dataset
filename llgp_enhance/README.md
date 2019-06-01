@@ -6,9 +6,7 @@ Released on June 1, 2019
 
 This is the implementation of our SPIC2019 work titled: [Low-light Image Enhancement using Gaussian Process for Features Retrieval](http://cs-chan.com/doc/SPIC2019.pdf)
 
-![demo](2015_00003.gif)
-![demo](2015_02446.gif)
-![demo](2015_06400.gif)
+<img src="2015_00003.gif" height="150" > <img src="2015_02446.gif" height="150" > <img src="2015_06400.gif" height="150" >
 
 ## Citation
 

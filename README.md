@@ -12,6 +12,8 @@ Released on May 29, 2018
 
 * Now available, codes for low-light image enhancement using Gaussian Process for features retrieval. [(SPIC 2019)](http://cs-chan.com/doc/SPIC2019.pdf)
 
+<img src="llgp_enhance/2015_00003.gif" height="150" > <img src="llgp_enhance/2015_02446.gif" height="150" > <img src="llgp_enhance/2015_06400.gif" height="150" >
+
 ## Citation
 If you find this dataset useful for your research, please cite
 ```
